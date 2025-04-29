@@ -78,7 +78,7 @@ export default function Home() {
             <div className="grid md:grid-cols-2 gap-8">
               <div>
                 <p className="text-gray-300 mb-4">
-                  I'm a Senior Full-Stack Developer with over 10 years of experience in building, deploying, and
+                  I'm a Senior Full-Stack Developer with over 8 years of experience in building, deploying, and
                   maintaining scalable web and mobile applications. I specialize in developing high-performance frontend
                   interfaces with React, Next.js, and React Native, and robust backend systems using Node.js, Express,
                   and cloud services like AWS and Firebase. I've successfully delivered high-impact products across both
